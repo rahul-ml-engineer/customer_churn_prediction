@@ -29,15 +29,15 @@ https://customerchurnprediction-mvrct4fvjnlsaa8rr3kh6q.streamlit.app/
 
 ### Home Page
 
-![Home](images/app_home.png)
+![Home](images/app_image.png)
 
 ### Customer Stay Prediction
 
-![Stay Prediction](images/churn_stay_result.png)
+![Stay Prediction](images/Customer_Stay_Result.png)
 
 ### Customer Churn Prediction
 
-![Churn Prediction](images/churn_result.png)
+![Churn Prediction](images/Customer_Churn_Result.png)
 
 ---
 
