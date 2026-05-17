@@ -37,7 +37,7 @@ https://customerchurnprediction-mvrct4fvjnlsaa8rr3kh6q.streamlit.app/
 
 ### Customer Churn Prediction
 
-![Churn Prediction](images/Customer_Churn_Result.png)
+![Churn Prediction](images/Customer_Churn_Results.png)
 
 ---
 
