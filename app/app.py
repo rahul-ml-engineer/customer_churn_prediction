@@ -31,6 +31,43 @@ df = load_data()
 
 st.title("Customer Churn Prediction")
 
+st.write(
+    """
+    Predict whether a telecom customer
+    is likely to churn using Machine Learning.
+    """
+)
+
+
+st.info(
+    """
+    Model Used: XGBoost
+
+    ROC-AUC Score: 0.927
+
+    Project Goal:
+
+    Help telecom companies identify customers
+    who are at risk of leaving.
+    """
+)
+
+
+st.subheader(
+    "Risk Levels"
+)
+
+
+st.write(
+    """
+    HIGH → Probability >70%
+
+    MEDIUM → Probability 40–70%
+
+    LOW → Probability <40%
+    """
+)
+
 st.write("Predict whether a telecom customer will churn")
 
 st.sidebar.title("Customer Inputs")
