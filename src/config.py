@@ -13,3 +13,6 @@ Feature_eng_Data = Processed_Data_Dir/"Feature_eng_Data.csv"
 MODEL_DIR = BASE_DIR/"models"
 Model_Path = MODEL_DIR/"Customer_Churn_Prediction.pkl"
 Model_Comparison_Path = MODEL_DIR/"Customer_Churn_Model_Comparision.csv"
+
+Predictions_DIR = BASE_DIR/"Predictions"
+PREDICTIONS_PATH = Predictions_DIR/ "Predictions.csv"
